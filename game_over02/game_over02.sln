@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "game_over02", "game_over02\game_over02.vcxproj", "{B6F922F6-CA89-45FE-816C-69C8AB53C8EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6F922F6-CA89-45FE-816C-69C8AB53C8EB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B6F922F6-CA89-45FE-816C-69C8AB53C8EB}.Debug|Win32.Build.0 = Debug|Win32
+		{B6F922F6-CA89-45FE-816C-69C8AB53C8EB}.Release|Win32.ActiveCfg = Release|Win32
+		{B6F922F6-CA89-45FE-816C-69C8AB53C8EB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
